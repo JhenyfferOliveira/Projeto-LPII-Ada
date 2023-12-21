@@ -1,5 +1,9 @@
-# Sistema de controle de estoque
-Uma interface via linha de comando para um sistema de controle de estoque, visa cumprir os requisitos do projeto máteria logica de programação II, do curso analista de dados da **Ada**, patrocinado pelo **potência tech ifood**. O projeto está sendo realizado no final do ano de 2023 e conta com a colaboração de 5 integrantes:
+# Projeto Final de Linguagem de Programação II
+
+## Sistema de controle de estoque
+
+Código desenvolvido para criar uma interface via linha de comando para um sistema de controle de estoque de restaurantes no iFood, com as características de cadastro de produto, consulta de produto, listagem de produtos, atualização de produtos e exclusão de cadastro. O projeto visou cumprir os requisitos de Lógica de Programação II, do bootcamp de Ciência de Dados da **Ada Tech**, patrocinado pelo **Potência Tech**, do **iFood**. 
+
 * Carlos André
 * Edson Nogueira
 * Jhenyffer Oliveira
@@ -16,5 +20,5 @@ Uma interface via linha de comando para um sistema de controle de estoque, visa 
 
 1.  Clone esse repositório na pasta desejada:
 ~~~
-git clone https://github.com/RochaSWallace/ifood-vem-ser-tech---Controle-de-estoque.git
+git clone https://github.com/JhenyfferOliveira/Projeto-LPII-Ada.git
 ~~~
