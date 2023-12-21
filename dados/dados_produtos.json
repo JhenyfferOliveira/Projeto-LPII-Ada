@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nome": "ma\u00e7a",
+        "valor": 7.0,
+        "quantidade": 45,
+        "tipo": "verde"
+    },
+    {
+        "id": 2,
+        "nome": "Biscoito Cebolitos",
+        "valor": 8.7,
+        "quantidade": 50,
+        "embalagem": "80Gr."
+    },
+    {
+        "id": 3,
+        "nome": "morango",
+        "valor": 6.0,
+        "quantidade": 23,
+        "tipo": "franc\u00eas"
+    }
+]
